@@ -13,7 +13,7 @@
 
 Check out what I have been working on...
 
-- Bitbucket Projects:
+- [Bitbucket Projects](https://bitbucket.org/Aurashot/)
 
 - [GitHub Projects](https://github.com/loreleibasken)
 
