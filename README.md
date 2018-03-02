@@ -15,7 +15,7 @@ Check out what I have been working on...
 
 - Bitbucket Projects:
 
-- Github Projects:
+- [GitHub Projects](https://github.com/loreleibasken)
 
 ## Education
 
