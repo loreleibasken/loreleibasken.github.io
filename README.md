@@ -1,4 +1,15 @@
-# Lorelei Basken
+## Lorelei Basken
+
+## Experience
+
+## Skills
+
+## Education
+
+## Projects
+
+## Currently Working On
+
 
 You can use the [editor on GitHub](https://github.com/loreleibasken/loreleibasken.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
