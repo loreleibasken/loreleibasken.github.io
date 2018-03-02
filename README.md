@@ -1,16 +1,21 @@
 ## About Me
 
--	Game Programming major with project experience in C++, Unity and Construct working on team projects and communicating status updates
--	Additional Skills:  HTML, Microsoft Access, Scrum/Sprints
+- Game Programming student 
+
+## Skills
+
+- Experienced in C++ and C#
+- Has worked on games in Unity and Unreal Engine 4, both in teams and individually
+- Additional Skills: HTML, Microsoft Access, Agile software development method
 
 
 ## Projects
 
 Check out what I have been working on...
 
-- Bitbucket Projects
+- Bitbucket Projects:
 
-- Github Projects
+- Github Projects:
 
 ## Education
 
@@ -22,6 +27,12 @@ Check out what I have been working on...
 
 
 ## Current Projects
+
+<Chexquest Stuff>
+  
+## Additional Information
+
+- Involved with the Daniel Webster Game Club from 2014-2017
 
 
 You can use the [editor on GitHub](https://github.com/loreleibasken/loreleibasken.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
