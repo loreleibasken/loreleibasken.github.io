@@ -28,11 +28,14 @@ Check out what I have been working on...
 
 ## Current Projects
 
-<Chexquest Stuff>
-  
+- Put ChexQuest stuff here
+
 ## Additional Information
 
-- Involved with the Daniel Webster Game Club from 2014-2017
+ - Involved with the Daniel Webster Game Club from 2014-2017 
+
+
+
 
 
 You can use the [editor on GitHub](https://github.com/loreleibasken/loreleibasken.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
