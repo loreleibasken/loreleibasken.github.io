@@ -1,6 +1,16 @@
-## Lorelei Basken
+## About Me
 
-## Skills
+-	Game Programming major with project experience in C++, Unity and Construct working on team projects and communicating status updates
+-	Additional Skills:  HTML, Microsoft Access, Scrum/Sprints
+
+
+## Projects
+
+Check out what I have been working on...
+
+- Bitbucket Projects
+
+- Github Projects
 
 ## Education
 
