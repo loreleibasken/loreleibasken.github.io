@@ -1,6 +1,6 @@
-## About Me
+## Lorelei Basken
 
-- Game Programming student 
+-	Game Programming major with project experience in C++, Unity and Construct working on team projects and communicating status updates
 
 ## Skills
 
