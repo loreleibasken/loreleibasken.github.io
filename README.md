@@ -1,14 +1,17 @@
 ## Lorelei Basken
 
-## Experience
-
 ## Skills
 
 ## Education
 
-## Projects
+- Daniel Webster College | Nashua, NH (2014-2017)
+- Southern New Hampshire University | Manchester, NH (2017-2018)
+- Bachelor of Science; Game Programming | Graduation: May 2018
+_Notable Coursework: Unix Programming, Data Structures and Algorithms, 2D & 3D Game Development, Graphics Game Engine, Studio Environment_
 
-## Currently Working On
+
+
+## Current Projects
 
 
 You can use the [editor on GitHub](https://github.com/loreleibasken/loreleibasken.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
